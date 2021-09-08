@@ -1,0 +1,28 @@
+{
+  "name": "personatejs",
+  "version": "1.0.0",
+  "description": "Get random personal information.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donteghen/personatejs.git"
+  },
+  "keywords": [
+    "personate",
+    "person",
+    "id"
+  ],
+  "author": "Donald Ticha Teghen <donaldteghen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donteghen/personatejs/issues"
+  },
+  "homepage": "https://github.com/donteghen/personatejs#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  },
+  "type": "module"
+}
